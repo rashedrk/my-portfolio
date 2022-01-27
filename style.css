@@ -47,7 +47,7 @@ p{
 }
 .down-stage{
     display: flex;
-    height: 500px;
+    height: 700px;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
